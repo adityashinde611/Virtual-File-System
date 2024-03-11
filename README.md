@@ -1,5 +1,4 @@
-# customized-virtual-file-system
-Customized virtual file system implement using c.
+
 # C-Project
 
 # Virtual-File-System
